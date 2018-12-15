@@ -1,0 +1,36 @@
+<map id="include/rclcpp/memory_strategy.hpp" name="include/rclcpp/memory_strategy.hpp">
+<area shape="rect" id="node4" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$allocator_8h.html" title="rcl/allocator.h" alt="" coords="1470,871,1570,897"/>
+<area shape="rect" id="node5" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$wait_8h.html" title="rcl/wait.h" alt="" coords="704,572,779,599"/>
+<area shape="rect" id="node17" href="$any__executable_8hpp.html" title="rclcpp/any_executable.hpp" alt="" coords="1826,95,2003,121"/>
+<area shape="rect" id="node30" href="$visibility__control_8hpp.html" title="rclcpp/visibility_control.hpp" alt="" coords="2227,572,2405,599"/>
+<area shape="rect" id="node33" href="$macros_8hpp.html" title="rclcpp/macros.hpp" alt="" coords="1186,572,1315,599"/>
+<area shape="rect" id="node49" href="$waitable_8hpp.html" title="rclcpp/waitable.hpp" alt="" coords="1403,333,1538,360"/>
+<area shape="rect" id="node50" href="$node__base__interface_8hpp.html" title="rclcpp/node_interfaces\l/node_base_interface.hpp" alt="" coords="565,169,736,211"/>
+<area shape="rect" id="node6" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$client_8h.html" title="rcl/client.h" alt="" coords="639,647,721,673"/>
+<area shape="rect" id="node7" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$macros_8h.html" title="rcl/macros.h" alt="" coords="1214,871,1309,897"/>
+<area shape="rect" id="node10" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$types_8h.html" title="rcl/types.h" alt="" coords="1847,871,1929,897"/>
+<area shape="rect" id="node11" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$visibility__control_8h.html" title="rcl/visibility_control.h" alt="" coords="860,871,1004,897"/>
+<area shape="rect" id="node12" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$guard__condition_8h.html" title="rcl/guard_condition.h" alt="" coords="1274,721,1417,748"/>
+<area shape="rect" id="node13" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$service_8h.html" title="rcl/service.h" alt="" coords="1273,647,1367,673"/>
+<area shape="rect" id="node14" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$subscription_8h.html" title="rcl/subscription.h" alt="" coords="847,647,969,673"/>
+<area shape="rect" id="node15" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$timer_8h.html" title="rcl/timer.h" alt="" coords="1592,647,1672,673"/>
+<area shape="rect" id="node8" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$node_8h.html" title="rcl/node.h" alt="" coords="1045,721,1123,748"/>
+<area shape="rect" id="node9" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$context_8h.html" title="rcl/context.h" alt="" coords="1325,796,1419,823"/>
+<area shape="rect" id="node16" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$time_8h.html" title="rcl/time.h" alt="" coords="1546,796,1622,823"/>
+<area shape="rect" id="node18" href="$callback__group_8hpp.html" title="rclcpp/callback_group.hpp" alt="" coords="1573,259,1747,285"/>
+<area shape="rect" id="node22" href="$client_8hpp.html" title="rclcpp/client.hpp" alt="" coords="1261,333,1379,360"/>
+<area shape="rect" id="node42" href="$service_8hpp.html" title="rclcpp/service.hpp" alt="" coords="3619,408,3747,435"/>
+<area shape="rect" id="node46" href="$subscription_8hpp.html" title="rclcpp/subscription.hpp" alt="" coords="2707,408,2863,435"/>
+<area shape="rect" id="node48" href="$timer_8hpp.html" title="rclcpp/timer.hpp" alt="" coords="3524,333,3639,360"/>
+<area shape="rect" id="node28" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$error__handling_8h.html" title="rcl/error_handling.h" alt="" coords="2953,572,3085,599"/>
+<area shape="rect" id="node29" href="$exceptions_8hpp.html" title="rclcpp/exceptions.hpp" alt="" coords="2571,490,2720,517"/>
+<area shape="rect" id="node31" href="$function__traits_8hpp.html" title="rclcpp/function_traits.hpp" alt="" coords="4277,572,4445,599"/>
+<area shape="rect" id="node34" href="$node__graph__interface_8hpp.html" title="rclcpp/node_interfaces\l/node_graph_interface.hpp" alt="" coords="702,483,877,524"/>
+<area shape="rect" id="node35" href="$type__support__decl_8hpp.html" title="rclcpp/type_support\l_decl.hpp" alt="" coords="2411,483,2547,524"/>
+<area shape="rect" id="node36" href="$utilities_8hpp.html" title="rclcpp/utilities.hpp" alt="" coords="1766,408,1893,435"/>
+<area shape="rect" id="node38" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$rmw_8h.html" title="rmw/rmw.h" alt="" coords="1766,490,1853,517"/>
+<area shape="rect" id="node39" href="$expand__topic__or__service__name_8hpp.html" title="rclcpp/expand_topic\l_or_service_name.hpp" alt="" coords="2182,483,2335,524"/>
+<area shape="rect" id="node41" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$error__handling_8h.html" title="rmw/error_handling.h" alt="" coords="3211,490,3354,517"/>
+<area shape="rect" id="node37" href="$context_8hpp.html" title="rclcpp/context.hpp" alt="" coords="1358,490,1487,517"/>
+<area shape="rect" id="node44" href="$any__service__callback_8hpp.html" title="rclcpp/any_service\l_callback.hpp" alt="" coords="4480,483,4611,524"/>
+</map>

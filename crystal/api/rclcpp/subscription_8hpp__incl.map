@@ -1,0 +1,34 @@
+<map id="include/rclcpp/subscription.hpp" name="include/rclcpp/subscription.hpp">
+<area shape="rect" id="node2" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$error__handling_8h.html" title="rmw/error_handling.h" alt="" coords="703,87,846,114"/>
+<area shape="rect" id="node3" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$rmw_8h.html" title="rmw/rmw.h" alt="" coords="870,87,957,114"/>
+<area shape="rect" id="node25" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$error__handling_8h.html" title="rcl/error_handling.h" alt="" coords="1679,281,1811,307"/>
+<area shape="rect" id="node26" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$subscription_8h.html" title="rcl/subscription.h" alt="" coords="1207,281,1329,307"/>
+<area shape="rect" id="node29" href="$any__subscription__callback_8hpp.html" title="rclcpp/any_subscription\l_callback.hpp" alt="" coords="2523,80,2682,121"/>
+<area shape="rect" id="node37" href="$visibility__control_8hpp.html" title="rclcpp/visibility_control.hpp" alt="" coords="2093,281,2272,307"/>
+<area shape="rect" id="node38" href="$exceptions_8hpp.html" title="rclcpp/exceptions.hpp" alt="" coords="1708,184,1857,211"/>
+<area shape="rect" id="node39" href="$expand__topic__or__service__name_8hpp.html" title="rclcpp/expand_topic\l_or_service_name.hpp" alt="" coords="1530,177,1683,218"/>
+<area shape="rect" id="node40" href="$macros_8hpp.html" title="rclcpp/macros.hpp" alt="" coords="2869,184,2998,211"/>
+<area shape="rect" id="node41" href="$message__memory__strategy_8hpp.html" title="rclcpp/message_memory\l_strategy.hpp" alt="" coords="2031,80,2199,121"/>
+<area shape="rect" id="node43" href="$subscription__traits_8hpp.html" title="rclcpp/subscription\l_traits.hpp" alt="" coords="3193,80,3324,121"/>
+<area shape="rect" id="node44" href="$type__support__decl_8hpp.html" title="rclcpp/type_support\l_decl.hpp" alt="" coords="3625,80,3761,121"/>
+<area shape="rect" id="node4" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$init_8h.html" title="rmw/init.h" alt="" coords="951,363,1030,389"/>
+<area shape="rect" id="node8" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$macros_8h.html" title="rcl/macros.h" alt="" coords="967,587,1062,613"/>
+<area shape="rect" id="node9" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$types_8h.html" title="rcl/types.h" alt="" coords="1707,587,1789,613"/>
+<area shape="rect" id="node10" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$visibility__control_8h.html" title="rcl/visibility_control.h" alt="" coords="715,587,859,613"/>
+<area shape="rect" id="node12" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$init_8h.html" title="rmw/init.h" alt="" coords="519,363,598,389"/>
+<area shape="rect" id="node14" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$macros_8h.html" title="rmw/macros.h" alt="" coords="274,512,379,539"/>
+<area shape="rect" id="node16" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$visibility__control_8h.html" title="rmw/visibility_control.h" alt="" coords="44,512,199,539"/>
+<area shape="rect" id="node17" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$qos__profiles_8h.html" title="rmw/qos_profiles.h" alt="" coords="951,184,1083,211"/>
+<area shape="rect" id="node18" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$types_8h.html" title="rmw/types.h" alt="" coords="781,281,875,307"/>
+<area shape="rect" id="node5" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$allocator_8h.html" title="rcl/allocator.h" alt="" coords="1470,587,1570,613"/>
+<area shape="rect" id="node6" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$context_8h.html" title="rcl/context.h" alt="" coords="1261,437,1355,464"/>
+<area shape="rect" id="node11" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$init__options_8h.html" title="rcl/init_options.h" alt="" coords="1153,512,1271,539"/>
+<area shape="rect" id="node7" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$arguments_8h.html" title="rcl/arguments.h" alt="" coords="1345,512,1457,539"/>
+<area shape="rect" id="node13" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$init__options_8h.html" title="rmw/init_options.h" alt="" coords="393,437,521,464"/>
+<area shape="rect" id="node15" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$ret__types_8h.html" title="rmw/ret_types.h" alt="" coords="506,512,622,539"/>
+<area shape="rect" id="node19" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$serialized__message_8h.html" title="rmw/serialized_message.h" alt="" coords="1710,363,1887,389"/>
+<area shape="rect" id="node27" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$node_8h.html" title="rcl/node.h" alt="" coords="1269,363,1347,389"/>
+<area shape="rect" id="node33" href="$allocator__common_8hpp.html" title="rclcpp/allocator/allocator\l_common.hpp" alt="" coords="2423,177,2585,218"/>
+<area shape="rect" id="node35" href="$function__traits_8hpp.html" title="rclcpp/function_traits.hpp" alt="" coords="3175,184,3343,211"/>
+<area shape="rect" id="node34" href="$allocator__deleter_8hpp.html" title="rclcpp/allocator/allocator\l_deleter.hpp" alt="" coords="2397,273,2560,315"/>
+</map>

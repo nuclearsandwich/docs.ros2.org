@@ -1,0 +1,12 @@
+<map id="include/rclcpp/strategies/message_pool_memory_strategy.hpp" name="include/rclcpp/strategies/message_pool_memory_strategy.hpp">
+<area shape="rect" id="node3" href="$macros_8hpp.html" title="rclcpp/macros.hpp" alt="" coords="25,191,154,218"/>
+<area shape="rect" id="node5" href="$message__memory__strategy_8hpp.html" title="rclcpp/message_memory\l_strategy.hpp" alt="" coords="520,95,688,136"/>
+<area shape="rect" id="node14" href="$visibility__control_8hpp.html" title="rclcpp/visibility_control.hpp" alt="" coords="1010,281,1188,307"/>
+<area shape="rect" id="node7" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$types_8h.html" title="rcl/types.h" alt="" coords="616,281,699,307"/>
+<area shape="rect" id="node8" href="$allocator__common_8hpp.html" title="rclcpp/allocator/allocator\l_common.hpp" alt="" coords="316,184,479,225"/>
+<area shape="rect" id="node11" href="$exceptions_8hpp.html" title="rclcpp/exceptions.hpp" alt="" coords="667,191,816,218"/>
+<area shape="rect" id="node16" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rmw.tag$serialized__message_8h.html" title="rmw/serialized_message.h" alt="" coords="1078,191,1256,218"/>
+<area shape="rect" id="node9" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$allocator_8h.html" title="rcl/allocator.h" alt="" coords="441,281,541,307"/>
+<area shape="rect" id="node10" href="$allocator__deleter_8hpp.html" title="rclcpp/allocator/allocator\l_deleter.hpp" alt="" coords="254,273,416,315"/>
+<area shape="rect" id="node13" href="/home/steven/osrf/crystal-release/ros2_doc_ws/doxygen_tag_files/rcl.tag$error__handling_8h.html" title="rcl/error_handling.h" alt="" coords="853,281,985,307"/>
+</map>
